@@ -2,7 +2,13 @@
 name = "rust-algorithms"
 version = "0.1.0"
 edition = "2021"
+default-run = "rust-algorithms"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+[[bin]]
+name = "example" 
+path = "src/bin/example/example.rs"  
