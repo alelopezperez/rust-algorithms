@@ -12,3 +12,7 @@ default-run = "rust-algorithms"
 [[bin]]
 name = "example" 
 path = "src/bin/example/example.rs"  
+
+[[bin]]
+name = "contains-duplicate" 
+path = "src/bin/contains-duplicate/contains-duplicate.rs"  
