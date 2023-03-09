@@ -3,11 +3,12 @@
 | Problem            | Difficulty | Implmentation                                     | Link                                                                   | problem source |
 | ------------------ | ---------- | ------------------------------------------------- | ---------------------------------------------------------------------- | -------------- |
 | Contains Duplicate | Easy       | [contains-duplicate](src/bin/contains-duplicate/) | [contains-duplicate](https://leetcode.com/problems/contains-duplicate) | leetcode       |
+| Valid Anagram      | Easy       | [is-anagram](src/bin/is-anagram/)                 | [contains-duplicate](https://leetcode.com/problems/valid-anagram)      | leetcode       |
 
 ## Iter
 
 TODO
-`s.chars().iter()` has no iter()
+`string.chars().iter()` has no iter()
 `iter().all()`
 
 ## HashMap
