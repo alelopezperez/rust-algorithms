@@ -16,3 +16,7 @@ path = "src/bin/example/example.rs"
 [[bin]]
 name = "contains-duplicate" 
 path = "src/bin/contains-duplicate/contains-duplicate.rs"  
+
+[[bin]]
+name = "is-anagram" 
+path = "src/bin/is-anagram/is-anagram.rs"  
