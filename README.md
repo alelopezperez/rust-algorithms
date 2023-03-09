@@ -18,4 +18,8 @@ TODO
   - or_insert
   - and modify
 - contains_key
--
+- with capacity
+
+## Vector and Arry
+
+- filling
