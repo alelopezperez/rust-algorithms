@@ -20,3 +20,7 @@ path = "src/bin/contains-duplicate/contains-duplicate.rs"
 [[bin]]
 name = "is-anagram" 
 path = "src/bin/is-anagram/is-anagram.rs"  
+
+[[bin]]
+name = "two-sum" 
+path = "src/bin/two-sum/two-sum.rs"  
