@@ -24,3 +24,8 @@ path = "src/bin/is-anagram/is-anagram.rs"
 [[bin]]
 name = "two-sum" 
 path = "src/bin/two-sum/two-sum.rs"  
+
+
+[[bin]]
+name = "group-anagrams" 
+path = "src/bin/group-anagrams/group-anagrams.rs"  

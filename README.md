@@ -4,6 +4,7 @@
 | ------------------ | ---------- | ------------------------------------------------- | ---------------------------------------------------------------------- | -------------- |
 | Contains Duplicate | Easy       | [contains-duplicate](src/bin/contains-duplicate/) | [contains-duplicate](https://leetcode.com/problems/contains-duplicate) | leetcode       |
 | Valid Anagram      | Easy       | [is-anagram](src/bin/is-anagram/)                 | [contains-duplicate](https://leetcode.com/problems/valid-anagram)      | leetcode       |
+| Two Sum            | Easy       | [two-sum](src/bin/two-sum/)                       | [contains-duplicate](https://leetcode.com/problems/two-sum/)           | leetcode       |
 
 ## Iter
 
@@ -12,6 +13,9 @@
   Traverses over all the values and applies a closure that retunr a boolean. At the first false it stops and returns false, if it completes returns true.
 
 - `string.chars().iter()` has no iter().
+
+- `enumarate()`
+  This function enumarates the array like in a classic `for(int i = 0; i<len(); i++)` loop
 
 ## HashMap
 
