@@ -25,7 +25,13 @@ path = "src/bin/is-anagram/is-anagram.rs"
 name = "two-sum" 
 path = "src/bin/two-sum/two-sum.rs"  
 
-
 [[bin]]
 name = "group-anagrams" 
 path = "src/bin/group-anagrams/group-anagrams.rs"  
+
+[[bin]]
+name = "top-k-frequent-elements" 
+path = "src/bin/top-k-frequent-elements/top-k-frequent-elements.rs"  
+
+
+
