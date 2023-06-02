@@ -68,3 +68,7 @@ If the values exists it will modify it via a clousure(lambda), no if not option;
 
   `let mut char_count = [0; 26];`
   `let mut char_count = vec![0; 26];`
+  
+## Async Tokio
+asyn will exute internally until next internal `.await()` it yield back, then try to resolver intern .await() then yield and continue until it finishes.
+
